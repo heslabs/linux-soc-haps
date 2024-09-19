@@ -14,19 +14,19 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
   * Synthesis: Synthesize the IP to ensure it meets the timing and area constraints.
 
 ## 3. Develop Compute Subsystem (Arm Corstone or Simplified Version)
-    * Arm Corstone: Utilize Arm Corstone IP for a pre-verified compute subsystem. Corstone IP includes subsystems based on Arm Cortex processors, bus infrastructure components, and baseline peripherals 1 .
-    * Simplified Version: If using a simplified version, design a basic compute subsystem with essential components like CPU, memory, and communication interfaces.
+  * Arm Corstone: Utilize Arm Corstone IP for a pre-verified compute subsystem. Corstone IP includes subsystems based on Arm Cortex processors, bus infrastructure components, and baseline peripherals 1 .
+ * Simplified Version: If using a simplified version, design a basic compute subsystem with essential components like CPU, memory, and communication interfaces.
 
 ## 4. Integrate Custom IP with Pre-built Compute Subsystem
-    * System Integration: Integrate your custom IP with the compute subsystem. Ensure compatibility with the system bus (e.g., AMBA AXI) and other interfaces.
-    * FPGA Fabric: Map the integrated design onto the FPGA fabric. This involves placing and routing the design using FPGA vendor tools.
+ * System Integration: Integrate your custom IP with the compute subsystem. Ensure compatibility with the system bus (e.g., AMBA AXI) and other interfaces.
+ * FPGA Fabric: Map the integrated design onto the FPGA fabric. This involves placing and routing the design using FPGA vendor tools.
 Verification: Perform system-level verification to ensure the integrated design functions correctly.
 
 ## 5. Running Linux and AI/ML Software
-    * Bootloader and Kernel: Develop or configure a bootloader (e.g., U-Boot) and Linux kernel for your SoC. Ensure the kernel supports the hardware components in your design.
-    * Root Filesystem: Create a root filesystem with necessary libraries and tools for AI/ML development.
-    * Deployment: Deploy the Linux image onto the FPGA. This can be done via JTAG, SD card, or network boot.
-    * AI/ML Frameworks: Install AI/ML frameworks like TensorFlow, PyTorch, or ONNX Runtime on the Linux system. Ensure the frameworks are optimized for the hardware.
+ * Bootloader and Kernel: Develop or configure a bootloader (e.g., U-Boot) and Linux kernel for your SoC. Ensure the kernel supports the hardware components in your design.
+ * Root Filesystem: Create a root filesystem with necessary libraries and tools for AI/ML development.
+ * Deployment: Deploy the Linux image onto the FPGA. This can be done via JTAG, SD card, or network boot.
+ * AI/ML Frameworks: Install AI/ML frameworks like TensorFlow, PyTorch, or ONNX Runtime on the Linux system. Ensure the frameworks are optimized for the hardware.
 
 ---
 # Example Workflow
