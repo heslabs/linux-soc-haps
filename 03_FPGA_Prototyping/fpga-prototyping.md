@@ -31,17 +31,13 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
 ---
 ## Applications of HAPS FPGA Prototyping Platform
 
-  * Education: Used in universities for teaching digital system design and creating typical SoC designs with processors 5 .
-  * Commercial Product Development: Enables digital designers to create custom digital systems with FPGAs, especially when off-the-shelf microcontroller products do not meet specific requirements 5 .
-  * Prototyping for Chip/SoC Designs: Used by ASIC designers for prototyping their designs and providing demonstrations or proof of concepts 5 .
+    * Education: Used in universities for teaching digital system design and creating typical SoC designs with processors.
+    * Commercial Product Development: Enables digital designers to create custom digital systems with FPGAs, especially when off-the-shelf microcontroller products do not meet specific requirements.
+    * Prototyping for Chip/SoC Designs: Used by ASIC designers for prototyping their designs and providing demonstrations or proof of concepts.
 
 By leveraging the HAPS-SX FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
 ---
-
-* Industry’s highest performance and most scalable pre-silicon prototyping system,  equipped with largest logic capacity FPGA device 
-* Design and verify your custom IP and SoC with real-world speed interfaces, software, and hardware all working together
-
 ![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3)
 
 ---
@@ -50,8 +46,8 @@ By leveraging the HAPS-SX FPGA prototyping platform, designers can accelerate th
 The Virtex™ UltraScale+™ VU19P FPGA enables prototyping and emulation of the most advanced ASIC and SoC technologies, as well as the development of complex algorithms. The VU19P FPGA provides the highest logic density and I/O count on a single device ever built by AMD, addressing new classes of demands in evolving technologies.
 
 FPGA used in HAPS-SX system:
-* AMD-Xilinx Virtex UltraScale+ VU19P FPGA
-* 8,930K System Logic Cells (Highest capacity FPGA now in production)
+    * AMD-Xilinx Virtex UltraScale+ VU19P FPGA
+    * 8,930K System Logic Cells (Highest capacity FPGA now in production)
 
 ![Screenshot from 2024-09-19 18-01-35](https://github.com/user-attachments/assets/27807229-e10f-42ff-aebd-440b13f52a41)
 
