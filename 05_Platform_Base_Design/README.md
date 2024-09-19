@@ -1,4 +1,4 @@
-# Platform Base Example
+# Platform Base Design
 
 The platform base design includes the following features
    * AXI to C2C interface connected to PS
