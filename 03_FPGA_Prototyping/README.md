@@ -39,7 +39,7 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
 By leveraging the HAPS FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
 ---
-<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="600">
+<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="800">
 
 ---
 ## FPGA Device
