@@ -1,6 +1,6 @@
 # Access DDR Memory on FPGA
 
-1. Launch Python scripts to write data into DDR memory
+1. Launch Python scripts on the target to write data into DDR memory
 ```
 import numpy as np
 import cv2
@@ -20,7 +20,7 @@ end = time.time()
 print("DDR Write (sec): " + str(end - start))
 ```
 
-2. Launch Python scripts to read data from DDR memory
+2. Launch Python scripts on the target to read data from DDR memory
 ```
 mport numpy as np
 import cv2
