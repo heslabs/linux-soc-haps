@@ -4,10 +4,10 @@ The Synopsys HAPS-SX FPGA prototyping platform is a high-performance prototyping
 
 ## Key Features of HAPS-SX FPGA Prototyping Platform
 
-** High Performance:**
+** High Performance:
 The HAPS-SX platform provides high-speed prototyping capabilities, allowing for faster execution and more accurate representation of the final hardware compared to software simulators 1 .
 
-### Parallel Execution:
+** Parallel Execution:
 
 Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS-SX platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware 1 .
 Debug Environment:
