@@ -42,3 +42,6 @@ cv2.imwrite('ddr_output.jpg', image)
 end = time.time()
 print("DDR Read (sec): " + str(end - start))
 ```
+---
+![image](https://github.com/user-attachments/assets/d005e2fc-6721-4c41-b0d6-e7ebeaebef43)
+
