@@ -1,4 +1,4 @@
-# SoC Research Platform
+# Linux SoC Prototyping System
 To build a System-on-Chip (SoC) research platform for teaching and research, you can follow these steps and leverage various resources and methodologies provided by community
  
 ### 1. Define the SoC Design Specification
