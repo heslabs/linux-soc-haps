@@ -17,7 +17,7 @@ validate_bd_design -force
 2. Review the generated Vivado reference design
 ```
 $ make hw-proj
-$ vivado -mode gui -project ./proj.xpr &
+## vivado -mode gui -project ./proj.xpr &
 ```
 
 3. Run the Synthesis and implemenation, and generate FPGA bitstream
