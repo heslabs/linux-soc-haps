@@ -43,7 +43,7 @@ $ source ./labs/setenv.sh
 2. Setup EDA design environemnt
    
 ```
-# setenv.sh
+## setenv.sh
 export XILINXD_LICENSE_FILE=~/.Xilinx/Xil_License.lic
 export VIVADO_HOME=/home/Vivado/Vitis/2022.2
 export VITIS_HOME=/home/eda/Vitis/2022.2
@@ -52,9 +52,20 @@ export VITIS_HLS_HOME=/home/eda/Vitis_HLS/2022.2
 
 3. Connecting the HAPS
 
-* Configure the system and bitstream using HAPS configuration tool (ConfPro)
 ```
+## Configure the system and bitstream using HAPS configuration tool (ConfPro)
 $ <Confpro-SX_1.1.10_220711>/Confpro-SX_1.1.10/guibin/Confpro-SX-GuiRun.sh
 ```
+
+4. Restart the CPU SoM module (ZynqMP) and monitor Linux OS booting sequence
+```
+$ putty -serial -sercfg 115200,8,n,1,N -fn 10x20 /dev/ttyUSB0
+```
+
+5. Connect to CPU SoM module (ZynqMP) and run the application software
+```
+$ ssh xilinx@192.168.52.3 -X (password:xilinx)
+```
+
 
 
