@@ -53,3 +53,8 @@ write_hw_platform -fixed -include_bit -force -file ./DUT.xsa
 ---
 ## Vivado Reference Design 
 ![image](https://github.com/user-attachments/assets/a22310ff-087e-4167-95f4-2c2c197a47c5)
+
+---
+## Vivado Memory Map
+![image](https://github.com/user-attachments/assets/5ab49917-4a4a-4ba5-bbce-5e393b7e4055)
+
