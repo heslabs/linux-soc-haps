@@ -53,3 +53,22 @@ FPGA device used in HAPS system:
 ![Screenshot from 2024-09-19 18-01-35](https://github.com/user-attachments/assets/27807229-e10f-42ff-aebd-440b13f52a41)
 
 Source: [AMD FPGA Comparison Table](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)  
+
+---
+## HAPS Daugther Cards
+
+
+![image](https://github.com/user-attachments/assets/6d500eab-0b62-4dcb-bc93-f6619c6f5514)
+
+* SMF_HSIO_HT3
+  *Zynq MPSoC (CA53) SoM
+* PCIEGEN5_RC_FIREFLY
+  * Gen4/Gen5 PCIe x16 slot, up to 28/32 GT/s
+* SDIO_EMMC_HT3
+  * 32Gb EMMC memory and 256Mb QSPI memory
+* HSIO_MIPI_HT3
+  * MIPI D-PHY, CSI for camera and DSI for display
+---
+
+
+
