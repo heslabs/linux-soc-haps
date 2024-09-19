@@ -1,6 +1,6 @@
 # SoC HW & SW Co-Design Flow
 
-1. Design custom IPs
+1. Design custom IPs and SoC integration: Written HDL, HLS and Vivado IPs 
 2. Run the HDL synthesis and implementation
 4. Program FPGA with generated bitstream
 5. Develope embedded Linux kernel and device drivers
