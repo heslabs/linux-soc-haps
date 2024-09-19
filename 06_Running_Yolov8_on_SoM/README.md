@@ -1,6 +1,6 @@
 # Running Yolov8 on Cortex-CA53 SoM
 
-1. Remote login into the SoM silicon module, whcih is ZynqMP based FPGA SoC equpped with Cortex-A53
+1. Remote connect to the SoM silicon module, whcih is ZynqMP based FPGA SoC equpped with Cortex-A53
 ```
 $ ssh xilinx@192.168.50.3 -X
 Password: xilinx
