@@ -1,5 +1,7 @@
 # FPGA Development Workflow
-To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and a compute subsystem, follow these steps:
+To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and a compute subsystem illustrated as below configuration. follow these steps:
+
+![image](https://github.com/user-attachments/assets/94c0b13e-07f6-4e59-87d7-0b8dd2715340)
 
 ## 1. Setup FPGA Cloud for Remote Access
 
@@ -31,3 +33,28 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
 
 ---
 # Example Workflow
+1. Setup Cloud Environment
+
+```
+$ ssd demo@59.124.169.195 -X
+$ source ./labs/setenv.sh
+```
+
+2. Setup EDA design environemnt
+   
+```
+# setenv.sh
+export XILINXD_LICENSE_FILE=~/.Xilinx/Xil_License.lic
+export VIVADO_HOME=/home/Vivado/Vitis/2022.2
+export VITIS_HOME=/home/eda/Vitis/2022.2
+export VITIS_HLS_HOME=/home/eda/Vitis_HLS/2022.2
+```
+
+3. Connecting the HAPS
+
+* Configure the system and bitstream using HAPS configuration tool (ConfPro)
+```
+$ <Confpro-SX_1.1.10_220711>/Confpro-SX_1.1.10/guibin/Confpro-SX-GuiRun.sh
+```
+
+
