@@ -57,13 +57,14 @@ Source: [AMD FPGA Comparison Table](https://docs.amd.com/v/u/en-US/ultrascale-pl
 ---
 ## HAPS Daugther Cards
 
-
-![image](https://github.com/user-attachments/assets/6d500eab-0b62-4dcb-bc93-f6619c6f5514)
-
 * SMF_HSIO_HT3
-  *Zynq MPSoC (CA53) SoM
+  * Zynq MPSoC (CA53) SoM
+  ![image](https://github.com/user-attachments/assets/6e22e06d-d7a7-41f1-8e4c-a0486ba0e511)
+
 * PCIEGEN5_RC_FIREFLY
   * Gen4/Gen5 PCIe x16 slot, up to 28/32 GT/s
+  ![image](https://github.com/user-attachments/assets/7c6e8b57-b7d2-44b8-89b8-a251f212ea19)
+
 * SDIO_EMMC_HT3
   * 32Gb EMMC memory and 256Mb QSPI memory
 * HSIO_MIPI_HT3
