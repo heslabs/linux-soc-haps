@@ -41,11 +41,8 @@ By leveraging the HAPS FPGA prototyping platform, designers can accelerate the d
 ---
 ![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3)
 
----
-![image](https://github.com/user-attachments/assets/55a01380-215c-4aa5-8e32-34125831c4df)
-
----
-![image](https://github.com/user-attachments/assets/204830f5-2902-41d4-bb17-821a659bfc88)
+--- 
+![image](https://github.com/user-attachments/assets/24448b10-10df-4f32-ab24-82f2d472b291)
 
 ---
 ## FPGA Device
