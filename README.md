@@ -18,7 +18,7 @@ To build a System-on-Chip (SoC) research platform for teaching and research, you
   * Hardware Integration: Integrate the sourced hardware IPs to form the SoC.
   * Software Integration: Combine the necessary drivers and software modules 1 .
   * Functional Simulation: Perform functional simulation to verify that the IPs and their integration produce the expected outcomes 1 .
-  * 
+    
 ### 5. HW/SW Co-Verification
   * Co-Simulation: Run co-simulation of hardware and software to refine the components. This iterative process may require additional software development and hardware optimizations.
 
@@ -29,7 +29,7 @@ To build a System-on-Chip (SoC) research platform for teaching and research, you
 ### 7. Physical Optimization and Fabrication
   * Physical Design: Optimize the physical design for timing and power analysis. Perform detailed functional simulation and software verification after each step 1 2
   * Fabrication: Once all aspects of the system’s specifications have been verified, send the prototype to the chip fabrication foundry for mass production 2 .
-  * 
+    
 By following these steps and leveraging the resources and methodologies provided by Arm Education, you can effectively build and verify a custom SoC for teaching and research purposes.
 
 
