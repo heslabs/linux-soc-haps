@@ -5,6 +5,7 @@
 ```
 $ soruce ./setenv.sh
 $ make hw-create
+
 ## Launch vivado_create.tcl
 create_project $HW ./ -part xcvu19p-fsva3824-2-e
 add_files -fileset constrs_1 ./DUT.xdc
@@ -23,6 +24,7 @@ $ make hw-proj
 3. Run the Synthesis and implemenation, and generate FPGA bitstream
 ```
 $ make hw-build
+
 ## Launch vivado_build.tcl
 update_compile_order -fileset sources_1
 ## Run synthesis
