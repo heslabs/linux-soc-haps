@@ -27,8 +27,8 @@ To build a System-on-Chip (SoC) research platform for teaching and research, you
   * Volume Manufacture and Ship: After successful testing, proceed with volume manufacturing and shipping of the final product.
 
 ### 7. Physical Optimization and Fabrication
-  * Physical Design: Optimize the physical design for timing and power analysis. Perform detailed functional simulation and software verification after each step 1 2
-  * Fabrication: Once all aspects of the system’s specifications have been verified, send the prototype to the chip fabrication foundry for mass production 2 .
+  * Physical Design: Optimize the physical design for timing and power analysis. Perform detailed functional simulation and software verification after each step.
+  * Fabrication: Once all aspects of the system’s specifications have been verified, send the prototype to the chip fabrication foundry for mass production.
     
 By following these steps and leveraging the resources and methodologies provided by Arm Education, you can effectively build and verify a custom SoC for teaching and research purposes.
 
