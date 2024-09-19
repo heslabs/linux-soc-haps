@@ -10,8 +10,8 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
 
   * Design Specification: Define the functionality and performance requirements of your custom IP.
   * HDL Coding: Write the hardware description in Verilog or VHDL. Use FPGA vendor tools (e.g., Xilinx Vivado, Intel Quartus) for coding and simulation.
-   * Simulation and Verification: Simulate the custom IP to verify its functionality using tools like ModelSim or Vivado Simulator.
-   * Synthesis: Synthesize the IP to ensure it meets the timing and area constraints.
+  * Simulation and Verification: Simulate the custom IP to verify its functionality using tools like ModelSim or Vivado Simulator.
+  * Synthesis: Synthesize the IP to ensure it meets the timing and area constraints.
 
 ## 3. Develop Compute Subsystem (Arm Corstone or Simplified Version)
     * Arm Corstone: Utilize Arm Corstone IP for a pre-verified compute subsystem. Corstone IP includes subsystems based on Arm Cortex processors, bus infrastructure components, and baseline peripherals 1 .
