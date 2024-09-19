@@ -7,7 +7,7 @@ To build a System-on-Chip (SoC) research platform for teaching and research, you
 
 ### 2. Leverage Arm Corstone Compute Subsystem
   * Reference Designs: Utilize pre-verified hardware and software reference designs from Arm Corstone to accelerate the development process and ensure compatibility and performance .
-  * 
+    
 ### 3. Integrate Hardware and Software
   * Hardware Integration: Integrate the sourced hardware IPs to form the SoC.
   * Software Integration: Combine the necessary drivers and software modules 1 .
@@ -32,13 +32,6 @@ To build a System-on-Chip (SoC) research platform for teaching and research, you
   * 
 By following these steps and leveraging the resources and methodologies provided by Arm Education, you can effectively build and verify a custom SoC for teaching and research purposes.
 
-## SoC Research Platform
-Building the SoC research platform for teaching and research to  use case
-* Design and verify your custom SoC on hyper-scale FPGA cloud
-* Create Linux-capable SoC with custom hardware accelerators
-* Agile design and verification platform for SoC architecture exploration
-* Leverage the HW&SW reference design from Arm Corstone compute subsystem 
-* Enable innovation from concept to silicon based on pre-verified SoC platform
 
 ---
 ## Arm Corstone Subsystem
