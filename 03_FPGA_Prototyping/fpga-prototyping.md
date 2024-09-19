@@ -32,9 +32,9 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
 
 ## Applications of HAPS FPGA Prototyping Platform
 
-    * Education: Used in universities for teaching digital system design and creating typical SoC designs with processors.
-    * Commercial Product Development: Enables digital designers to create custom digital systems with FPGAs, especially when off-the-shelf microcontroller products do not meet specific requirements.
-    * Prototyping for Chip/SoC Designs: Used by ASIC designers for prototyping their designs and providing demonstrations or proof of concepts.
+* Education: Used in universities for teaching digital system design and creating typical SoC designs with processors.
+* Commercial Product Development: Enables digital designers to create custom digital systems with FPGAs, especially when off-the-shelf microcontroller products do not meet specific requirements.
+* Prototyping for Chip/SoC Designs: Used by ASIC designers for prototyping their designs and providing demonstrations or proof of concepts.
 
 By leveraging the HAPS-SX FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
