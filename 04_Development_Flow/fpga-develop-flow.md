@@ -21,7 +21,7 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
 ## 4. Integrate Custom IP with Pre-built Compute Subsystem
  * System Integration: Integrate your custom IP with the compute subsystem. Ensure compatibility with the system bus (e.g., AMBA AXI) and other interfaces.
  * FPGA Fabric: Map the integrated design onto the FPGA fabric. This involves placing and routing the design using FPGA vendor tools.
-Verification: Perform system-level verification to ensure the integrated design functions correctly.
+ * Verification: Perform system-level verification to ensure the integrated design functions correctly.
 
 ## 5. Running Linux and AI/ML Software
  * Bootloader and Kernel: Develop or configure a bootloader (e.g., U-Boot) and Linux kernel for your SoC. Ensure the kernel supports the hardware components in your design.
