@@ -8,7 +8,7 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
    * The HAPS platform provides high-speed prototyping capabilities, allowing for faster execution and more accurate representation of the final hardware compared to software simulators.
 
 2. Parallel Execution:
-    * Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS-SX platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware.
+    * Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware.
 
 3. Debug Environment:
     * The platform includes a comprehensive debug environment, although it differs from traditional simulation environments. This allows designers to look inside the system without significantly impacting runtime.
@@ -23,10 +23,10 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
     * The HAPS-SX platform is often used as a prototyping stage before transitioning to an Application-Specific Integrated Circuit (ASIC). This allows designers to prove the functionality and effectiveness of the chip-based implementation.
 
 7. Soft-core and Hard-core CPUs:
-    * The platform supports both soft-core and hard-core CPU implementations. Soft-core CPUs offer flexibility in terms of area and performance, while hard-core CPUs provide fixed processor performance embedded in the FPGA logic 3 .
+    * The platform supports both soft-core and hard-core CPU implementations. Soft-core CPUs offer flexibility in terms of area and performance, while hard-core CPUs provide fixed processor performance embedded in the FPGA logic.
 
 9. Integration with Arm IP:
-    * The HAPS-SX platform can integrate with Arm IPs, such as Cortex processors, to create custom SoCs. This integration is facilitated by tools like Arm DesignStart, which provides access to design resources and proven IPs 4 5 
+    * The HAPS-SX platform can integrate with Arm IPs, such as Cortex processors, to create custom SoCs. This integration is facilitated by tools like Arm DesignStart, which provides access to design resources and proven IPs. 
 
 ---
 ## Applications of HAPS FPGA Prototyping Platform
