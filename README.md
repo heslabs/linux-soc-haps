@@ -18,7 +18,7 @@ Source: [Arm IoT Reference Design Platform](https://https://www.arm.com/products
 
 ---
 ## FPGA Prototyping System
-* Industry’s highest performance and most scalable pre-silicon prototyping system,  equipped with largest logic capacity FPGA device from AMD-Xilinx 
+* Industry’s highest performance and most scalable pre-silicon prototyping system,  equipped with largest logic capacity FPGA device 
 * Design and verify your custom IP and SoC with real-world speed interfaces, software, and hardware all working together.
   
-![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/96a2e6f1-f2ff-4a13-9518-7c225cf07e22?raw=true "HAPS-SX =50%")
+![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/96a2e6f1-f2ff-4a13-9518-7c225cf07e22?raw=true "HAPS-SX =50%x")
