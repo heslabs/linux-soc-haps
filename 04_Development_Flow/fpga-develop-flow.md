@@ -73,8 +73,8 @@ $ ssh xilinx@192.168.50.3 -X (password:xilinx)
 ---
 ### Utilities
 
-* WinSCP - Free SFTP and FTP client for Windows [Downland](https://winscp.net/eng/download.php)
-* MobaXterm Xserver with SSH, telnet, RDP, VNC and X11 [Download](https://mobaxterm.mobatek.net/download.html)
+* WinSCP - Free SFTP and FTP client for Windows [[Downland]](https://winscp.net/eng/download.php)
+* MobaXterm Xserver with SSH, telnet, RDP, VNC and X11 [[Download]](https://mobaxterm.mobatek.net/download.html)
 
 ![image](https://github.com/user-attachments/assets/44544270-b520-464a-8fd4-c9d48ddb02e2)
 
