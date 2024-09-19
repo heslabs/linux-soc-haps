@@ -4,7 +4,7 @@
 1. Launch tthe follwoing scripts in Lniux terminal to build the Vivado reference design
 ```
 $ soruce ./setenv.sh
-$ make hw-new
+$ make hw-create
 ## Launch vivado_create.tcl
 create_project $HW ./ -part xcvu19p-fsva3824-2-e
 add_files -fileset constrs_1 ./DUT.xdc
@@ -16,13 +16,13 @@ validate_bd_design -force
 
 2. Review the generated Vivado reference design
 ```
-$ make hw-prj
+$ make hw-proj
 $ vivado -mode gui -project ./proj.xpr &
 ```
 
 3. Run the Synthesis and implemenation, and generate FPGA bitstream
 ```
-$ make hw-com
+$ make hw-build
 ## Launch vivado_build.tcl
 update_compile_order -fileset sources_1
 ## Run synthesis
