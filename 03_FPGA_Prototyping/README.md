@@ -42,6 +42,9 @@ By leveraging the HAPS FPGA prototyping platform, designers can accelerate the d
 ![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3)
 
 ---
+<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="600">
+
+---
 ## FPGA Device
 
 The Virtex™ UltraScale+™ VU19P FPGA enables prototyping and emulation of the most advanced ASIC and SoC technologies, as well as the development of complex algorithms. The VU19P FPGA provides the highest logic density and I/O count on a single device ever built by AMD, addressing new classes of demands in evolving technologies.
