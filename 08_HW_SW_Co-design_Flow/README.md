@@ -3,10 +3,10 @@
 To design a System-on-Chip (SoC) with both hardware and software components, follow this comprehensive co-design flow:
 
 1. Design Custom IPs and SoC Integration
-   * Custom IP Design:
-      * HDL (Hardware Description Language): Write custom IPs using Verilog or VHDL.
-      * HLS (High-Level Synthesis): Use HLS tools to convert high-level algorithms (e.g., C/C++) into hardware descriptions.
-      * Vivado IP Integrator: Use Vivado IP Integrator to create and manage custom IPs and integrate them into the SoC design.
+* Custom IP Design:
+    * HDL (Hardware Description Language): Write custom IPs using Verilog or VHDL.
+    * HLS (High-Level Synthesis): Use HLS tools to convert high-level algorithms (e.g., C/C++) into hardware descriptions.
+    * Vivado IP Integrator: Use Vivado IP Integrator to create and manage custom IPs and integrate them into the SoC design.
         
 2. Run the HDL Synthesis and Implementation
 Synthesis:
