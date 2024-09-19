@@ -1,6 +1,6 @@
 # Platform Design Example
 
-## Launch Script
+## Launch scripts
 1. Launch tthe follwoing scripts in Lniux terminal to build the Vivado reference design
 ```
 $ soruce ./setenv.sh
