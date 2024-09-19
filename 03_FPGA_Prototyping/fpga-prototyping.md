@@ -20,13 +20,13 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
     * The platform supports the integration of various IP blocks, either from a catalog of existing components or custom-designed IPs. This flexibility helps in achieving the desired system behavior while meeting key constraints such as size, cost, and performance.
 
 6. Prototyping for ASICs:
-    * The HAPS-SX platform is often used as a prototyping stage before transitioning to an Application-Specific Integrated Circuit (ASIC). This allows designers to prove the functionality and effectiveness of the chip-based implementation.
+    * The HAPS platform is often used as a prototyping stage before transitioning to an Application-Specific Integrated Circuit (ASIC). This allows designers to prove the functionality and effectiveness of the chip-based implementation.
 
 7. Soft-core and Hard-core CPUs:
     * The platform supports both soft-core and hard-core CPU implementations. Soft-core CPUs offer flexibility in terms of area and performance, while hard-core CPUs provide fixed processor performance embedded in the FPGA logic.
 
 9. Integration with Arm IP:
-    * The HAPS-SX platform can integrate with Arm IPs, such as Cortex processors, to create custom SoCs. This integration is facilitated by tools like Arm DesignStart, which provides access to design resources and proven IPs. 
+    * The HAPS platform can integrate with Arm IPs, such as Cortex-A processors, to create custom SoCs. This integration is facilitated by tools provided in Arm Academic Access (AAA) program, which provides access to design resources and proven IPs. 
 
 ---
 ## Applications of HAPS FPGA Prototyping Platform
