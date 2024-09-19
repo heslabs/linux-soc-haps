@@ -14,7 +14,7 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
   * Simulation and Verification: Simulate the custom IP to verify its functionality using tools like ModelSim or Vivado Simulator.
   * Synthesis: Synthesize the IP to ensure it meets the timing and area constraints.
 
-## 3. Develop Compute Subsystem (Arm Corstone or Simplified Version)
+## 3. Develop Compute Subsystem
   * Arm Corstone: Utilize Arm Corstone IP for a pre-verified compute subsystem. Corstone IP includes subsystems based on Arm Cortex processors, bus infrastructure components, and baseline peripherals 1 .
  * Simplified Version: If using a simplified version, design a basic compute subsystem with essential components like CPU, memory, and communication interfaces.
 
