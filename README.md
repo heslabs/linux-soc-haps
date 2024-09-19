@@ -1,4 +1,4 @@
-# Linux-SoC-HAPS
+# Linux-SoC-HAPS-Platform
 
 ## SoC Research Platform
 * Design and verify your custom SoC on hyper-scale FPGA cloud
