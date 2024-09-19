@@ -1,4 +1,24 @@
 # FPGA Prototyping System
+
+The Synopsys HAPS-SX FPGA prototyping platform is a high-performance prototyping solution designed to enable the development and validation of complex System-on-Chip (SoC) designs. Here are some key features and details about the HAPS-SX platform:
+
+## Key Features of HAPS-SX FPGA Prototyping Platform
+
+** High Performance:**
+The HAPS-SX platform provides high-speed prototyping capabilities, allowing for faster execution and more accurate representation of the final hardware compared to software simulators 1 .
+
+### Parallel Execution:
+
+Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS-SX platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware 1 .
+Debug Environment:
+
+The platform includes a comprehensive debug environment, although it differs from traditional simulation environments. This allows designers to look inside the system without significantly impacting runtime 1 .
+Verification and Validation:
+
+The HAPS-SX platform is used for thorough verification and validation of SoC designs. This includes using test benches to check the behavior of the blocks and simulators to test the hardware description language (HDL) 1 .
+
+---
+
 * Industry’s highest performance and most scalable pre-silicon prototyping system,  equipped with largest logic capacity FPGA device 
 * Design and verify your custom IP and SoC with real-world speed interfaces, software, and hardware all working together
 
