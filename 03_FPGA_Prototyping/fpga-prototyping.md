@@ -1,21 +1,41 @@
 # FPGA Prototyping System
 
-The Synopsys HAPS-SX FPGA prototyping platform is a high-performance prototyping solution designed to enable the development and validation of complex System-on-Chip (SoC) designs. Here are some key features and details about the HAPS-SX platform:
+The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping solution designed to enable the development and validation of complex System-on-Chip (SoC) designs. Here are some key features and details about the HAPS-SX platform:
 
-## Key Features of HAPS-SX FPGA Prototyping Platform
+## Key Features of HAPS FPGA Prototyping Platform
 
-** High Performance:
-The HAPS-SX platform provides high-speed prototyping capabilities, allowing for faster execution and more accurate representation of the final hardware compared to software simulators 1 .
+1. High Performance:
+  * The HAPS platform provides high-speed prototyping capabilities, allowing for faster execution and more accurate representation of the final hardware compared to software simulators.
 
-** Parallel Execution:
+2. Parallel Execution:
+  * Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS-SX platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware.
 
-Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS-SX platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware 1 .
-Debug Environment:
+3. Debug Environment:
+  * The platform includes a comprehensive debug environment, although it differs from traditional simulation environments. This allows designers to look inside the system without significantly impacting runtime.
 
-The platform includes a comprehensive debug environment, although it differs from traditional simulation environments. This allows designers to look inside the system without significantly impacting runtime 1 .
-Verification and Validation:
+4. Verification and Validation:
+  * The HAPS platform is used for thorough verification and validation of SoC designs. This includes using test benches to check the behavior of the blocks and simulators to test the hardware description language (HDL).
 
-The HAPS-SX platform is used for thorough verification and validation of SoC designs. This includes using test benches to check the behavior of the blocks and simulators to test the hardware description language (HDL) 1 .
+5. Design Flexibility:
+  * The platform supports the integration of various IP blocks, either from a catalog of existing components or custom-designed IPs. This flexibility helps in achieving the desired system behavior while meeting key constraints such as size, cost, and performance.
+
+6. Prototyping for ASICs:
+  * The HAPS-SX platform is often used as a prototyping stage before transitioning to an Application-Specific Integrated Circuit (ASIC). This allows designers to prove the functionality and effectiveness of the chip-based implementation 2 .
+
+7. Soft-core and Hard-core CPUs:
+  * The platform supports both soft-core and hard-core CPU implementations. Soft-core CPUs offer flexibility in terms of area and performance, while hard-core CPUs provide fixed processor performance embedded in the FPGA logic 3 .
+
+8. Integration with Arm IP:
+  * The HAPS-SX platform can integrate with Arm IPs, such as Cortex processors, to create custom SoCs. This integration is facilitated by tools like Arm DesignStart, which provides access to design resources and proven IPs 4 5 
+
+---
+## Applications of HAPS FPGA Prototyping Platform
+
+  * Education: Used in universities for teaching digital system design and creating typical SoC designs with processors 5 .
+  * Commercial Product Development: Enables digital designers to create custom digital systems with FPGAs, especially when off-the-shelf microcontroller products do not meet specific requirements 5 .
+  * Prototyping for Chip/SoC Designs: Used by ASIC designers for prototyping their designs and providing demonstrations or proof of concepts 5 .
+
+By leveraging the HAPS-SX FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
 ---
 
