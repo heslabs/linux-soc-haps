@@ -39,7 +39,7 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
 By leveraging the HAPS FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
 ---
-<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="600">
+<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="650">
 
 ---
 ## FPGA Device
@@ -58,22 +58,22 @@ Source: [AMD FPGA Comparison Table](https://docs.amd.com/v/u/en-US/ultrascale-pl
 ## HAPS Daugther Cards
 
 #### SMF_HSIO_HT3: Zynq MPSoC (CA53) SoM
-<img src="https://github.com/user-attachments/assets/6e22e06d-d7a7-41f1-8e4c-a0486ba0e511" width="500">
+<img src="https://github.com/user-attachments/assets/6e22e06d-d7a7-41f1-8e4c-a0486ba0e511" width="400">
 
 ---
 #### PCIEGEN5_RC_FIREFLY: Gen4/Gen5 PCIe x16 slot, up to 28/32 GT/s
-![image](https://github.com/user-attachments/assets/7c6e8b57-b7d2-44b8-89b8-a251f212ea19)
+<img src="https://github.com/user-attachments/assets/7c6e8b57-b7d2-44b8-89b8-a251f212ea19" width="300">
 
 ---
 #### SDIO_EMMC_HT3: 32Gb EMMC memory and 256Mb QSPI memory
-![image](https://github.com/user-attachments/assets/62b86b66-0e73-4599-90aa-2f77abc17bd4)
+<img src="https://github.com/user-attachments/assets/62b86b66-0e73-4599-90aa-2f77abc17bd4" width="150">
 
 ---
 #### HSIO_MIPI_HT3: MIPI D-PHY, CSI for camera and DSI for display
-![image](https://github.com/user-attachments/assets/0c314e6c-de56-4c8e-8dd1-2f721c16d162)
+<img src="https://github.com/user-attachments/assets/0c314e6c-de56-4c8e-8dd1-2f721c16d162" width="250">
 
 ---
 #### FireFly Cable
-![image](https://github.com/user-attachments/assets/641cec5d-6bf6-480c-a8bc-bf63852ea9f4)
+<img src="https://github.com/user-attachments/assets/641cec5d-6bf6-480c-a8bc-bf63852ea9f4" width="200">
 
 ---
