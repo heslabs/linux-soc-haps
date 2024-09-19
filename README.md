@@ -8,17 +8,17 @@ To build a System-on-Chip (SoC) research platform for teaching and research, you
 ### 2. Leverage Arm Corstone Compute Subsystem
   * Reference Designs: Utilize pre-verified hardware and software reference designs from Arm Corstone to accelerate the development process and ensure compatibility and performance .
     
-### 3. Integrate Hardware and Software
-  * Hardware Integration: Integrate the sourced hardware IPs to form the SoC.
-  * Software Integration: Combine the necessary drivers and software modules 1 .
-  * Functional Simulation: Perform functional simulation to verify that the IPs and their integration produce the expected outcomes 1 .
-
-### 4. Prototyping on FPGA
+### 3. Prototyping on FPGA
   * FPGA Implementation: Implement a hardware prototype of the system on a Field Programmable Gate Array (FPGA) board. This stage can be divided into three phases:
     * Functional Design Phase: Create a behavioral model of the hardware and a working prototype of the software 1 .
     * Circuit Design Phase: Transfer the behavioral descriptions of the functional blocks into circuits. This process is automated for digital blocks and manual for analog blocks.
     * Physical Design Phase: Perform tasks such as floorplanning, pad ring design, placement, clock tree design, power and IR drop analysis, routing, and design rule checks.
 
+### 4. Integrate Hardware and Software
+  * Hardware Integration: Integrate the sourced hardware IPs to form the SoC.
+  * Software Integration: Combine the necessary drivers and software modules 1 .
+  * Functional Simulation: Perform functional simulation to verify that the IPs and their integration produce the expected outcomes 1 .
+  * 
 ### 5. HW/SW Co-Verification
   * Co-Simulation: Run co-simulation of hardware and software to refine the components. This iterative process may require additional software development and hardware optimizations.
 
