@@ -39,7 +39,7 @@ The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping so
 By leveraging the HAPS FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
 ---
-<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="1200">
+<img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="600">
 
 ---
 ## FPGA Device
@@ -50,7 +50,7 @@ FPGA device used in HAPS system:
   * AMD-Xilinx Virtex UltraScale+ VU19P FPGA
   * 8,930K System Logic Cells (Highest capacity FPGA now in production)
 
-<img src="https://github.com/user-attachments/assets/27807229-e10f-42ff-aebd-440b13f52a41" width="600">
+<img src="https://github.com/user-attachments/assets/27807229-e10f-42ff-aebd-440b13f52a41" width="800">
 
 Source: [AMD FPGA Comparison Table](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)  
 
