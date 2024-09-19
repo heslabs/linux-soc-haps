@@ -46,7 +46,7 @@ By leveraging the HAPS FPGA prototyping platform, designers can accelerate the d
 
 The Virtex™ UltraScale+™ VU19P FPGA enables prototyping and emulation of the most advanced ASIC and SoC technologies, as well as the development of complex algorithms. The VU19P FPGA provides the highest logic density and I/O count on a single device ever built by AMD, addressing new classes of demands in evolving technologies.
 
-FPGA used in HAPS system:
+FPGA device used in HAPS system:
   * AMD-Xilinx Virtex UltraScale+ VU19P FPGA
   * 8,930K System Logic Cells (Highest capacity FPGA now in production)
 
