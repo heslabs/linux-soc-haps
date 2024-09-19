@@ -2,8 +2,9 @@
 To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and a compute subsystem, follow these steps:
 
 ## 1. Setup FPGA Cloud for Remote Access
-    * Cloud Infrastructure: Set up a cloud environment that supports FPGA development. This can be done using cloud services that offer FPGA instances, such as AWS F1 instances or Azure N-series VMs.
-    * Remote Access Tools: Use remote access tools like SSH, VPN, or cloud-specific remote desktop solutions to access the FPGA development environment.
+
+* Cloud Infrastructure: Set up a cloud environment that supports FPGA development. This can be done using cloud services that offer FPGA instances, such as AWS F1 instances or Azure N-series VMs.
+* Remote Access Tools: Use remote access tools like SSH, VPN, or cloud-specific remote desktop solutions to access the FPGA development environment.
 
 ## 2. Develop Your Custom IP
     * Design Specification: Define the functionality and performance requirements of your custom IP.
