@@ -1,8 +1,6 @@
 # FPGA Development Workflow
 To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and a compute subsystem illustrated as below configuration. follow these steps:
 
-![image](https://github.com/user-attachments/assets/94c0b13e-07f6-4e59-87d7-0b8dd2715340)
-
 ## 1. Setup FPGA Cloud for Remote Access
 
 * Cloud Infrastructure: Set up a cloud environment that supports FPGA development. This can be done using cloud services that offer FPGA instances, such as AWS 
@@ -33,6 +31,11 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
 
 ---
 # Example Workflow
+
+FPGA system configuration is illustrated as below
+
+![image](https://github.com/user-attachments/assets/94c0b13e-07f6-4e59-87d7-0b8dd2715340)
+
 1. Setup Cloud Environment
 
 ```
