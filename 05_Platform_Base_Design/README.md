@@ -1,4 +1,9 @@
-# Platform Design Example
+# Platform Base Example
+
+The platform base design includes the following features
+* AXI to C2C interface connected to PS
+* DDR4 controller connected to on-board 16GB DDR SDRAM
+* Internal SRAM 
 
 ## Refeence build scripts
 1. Launch tthe follwoing scripts in Lniux terminal to build the Vivado reference design
