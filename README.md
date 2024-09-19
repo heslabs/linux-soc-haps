@@ -21,4 +21,4 @@ Source: [Arm IoT Reference Design Platform](https://https://www.arm.com/products
 * Industry’s highest performance and most scalable pre-silicon prototyping system,  equipped with largest logic capacity FPGA device 
 * Design and verify your custom IP and SoC with real-world speed interfaces, software, and hardware all working together
 
-![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3=60%x)
+![haps-vu19p-mipi-pcie](https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3)
