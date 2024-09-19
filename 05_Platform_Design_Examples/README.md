@@ -15,6 +15,7 @@ $ make hw-prj
 $ make hw-com
 ```
 
+---
 ## System Block Diagram
 
 ![image](https://github.com/user-attachments/assets/6558d14e-fc95-4b69-826d-68147bb5ea84)
