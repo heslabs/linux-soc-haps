@@ -7,8 +7,9 @@ To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and
 * Remote Access Tools: Use remote access tools like SSH, VPN, or cloud-specific remote desktop solutions to access the FPGA development environment.
 
 ## 2. Develop Your Custom IP
-* Design Specification: Define the functionality and performance requirements of your custom IP.
-* HDL Coding: Write the hardware description in Verilog or VHDL. Use FPGA vendor tools (e.g., Xilinx Vivado, Intel Quartus) for coding and simulation.
+
+  * Design Specification: Define the functionality and performance requirements of your custom IP.
+  * HDL Coding: Write the hardware description in Verilog or VHDL. Use FPGA vendor tools (e.g., Xilinx Vivado, Intel Quartus) for coding and simulation.
    * Simulation and Verification: Simulate the custom IP to verify its functionality using tools like ModelSim or Vivado Simulator.
    * Synthesis: Synthesize the IP to ensure it meets the timing and area constraints.
 
