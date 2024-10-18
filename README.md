@@ -1,6 +1,6 @@
 # Linux SoC Prototyping System
 
-This is the collaboraton project for academia SoC development community. To build a System-on-Chip (SoC) research platform for teaching and research, you can follow these steps and leverage various resources and methodologies provided by community support.
+This is the collaboration project for the academia SoC development community. To build a System-on-Chip (SoC) research platform for teaching and research, you can follow these steps and leverage various resources and methodologies provided by community support.
  
 ### 1. Define the SoC Design Specification
   * Operation Modes: Determine the operation modes of the system and the performance requirements.
