@@ -7,9 +7,9 @@ This is the collaboration project for the academia SoC development community. To
 
 | # | Training module | Labs |
 |:-:|:-|:-:|
-| 01 | Introduction to Arm Linux SoC | N/A |
-| 02 | Introduction to AMBA and Arm Corstone subsystem | N/A |
-| 03 | Introduction to HAPS Prototyping Hardware | N/A |
+| 01 | Introduction to Arm Linux SoC and AMBA | N/A |
+| 02 | Introduction to Arm Cortex-A CPU and Corstone Subsystem | N/A |
+| 03 | HAPS Prototyping Hardware Overview | N/A |
 | 04 | Build and Deploy the FPGA Prototyping System | labs |
 | 05 | SoC Hardware Development Flow | labs |
 | 06 | SoC Software Development Flow | labs |
