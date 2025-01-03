@@ -1,6 +1,6 @@
 # Prototyping Linux SoC
 
-This is the collaboration project for the academia SoC development community. To build a System-on-Chip (SoC) research platform for teaching and research, you can follow these steps and leverage various resources and methodologies provided by community support.
+This is the collaboration project for the academia SoC research community. To build a System-on-Chip (SoC) research platform for teaching and research, you can follow these steps and leverage various resources and methodologies provided by community support.
 
 ---
 ## Prototyping Linux SoC - Training Agenda
