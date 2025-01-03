@@ -15,7 +15,7 @@ This is the collaboration project for the academia SoC development community. To
 | 06 | SoC Software Development Flow | labs |
 | 07 | CPU + DDR Example | labs |
 | 08 | SoC HW&SW Co-design Methodology | N/A |
-| 09 | Linux SoC with LLM Accelerator | labs |
+| 09 | Prototyping AI SoC for LLM Chatbot | labs |
 
 ---
 ## SoC Design and Verification Flow
