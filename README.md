@@ -3,14 +3,14 @@
 This is the collaboration project for the academia SoC development community. To build a System-on-Chip (SoC) research platform for teaching and research, you can follow these steps and leverage various resources and methodologies provided by community support.
 
 ---
-## Training Agenda
+## Linux SoC Prototyping - Training Agenda
 
 | # | Training module | Labs |
 |:-:|:-|:-:|
 | 01 | Introduction to Arm Linux SoC | N/A |
 | 02 | Introduction to AMBA and Arm Corstone subsystem | N/A |
-| 03 | Introduction to FPGA Prototyping Platform | labs |
-| 04 | SoC FPGA Prototyping Platform | labs |
+| 03 | Introduction to HAPS Prototyping Hardware | N/A |
+| 04 | Build the FPGA Prototyping System | labs |
 | 05 | SoC Hardware Development Flow | labs |
 | 06 | SoC Software Development Flow | labs |
 | 07 | CPU + DDR Example | labs |
