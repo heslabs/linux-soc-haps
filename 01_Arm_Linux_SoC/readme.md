@@ -1,4 +1,4 @@
-# SoC Design Specification
+# Inroduction to Arm Linux SoC
 
 A typical Linux-capable System-on-Chip (SoC) silicon specification using TSMC's 7nm FinFET process might include the following features:
  
