@@ -2,12 +2,12 @@
 
 | Board | Device | Capacity | CPU | DDR | OS |
 | :-|:-:|-:|:-:|:-|:-:|
-| PYNQ-Z2 | XC7Z020 | 13,300 LS | Arm Cortex-A9MP2 (650MHz) | 512MB DDR3 | PYNQ Linux (32bit) |
-| PYNQ-ZU | XCZU5EG| 256K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 | PYNQ Linux (64bit) |
-| KV260/KR260 | XCZU5EV | 256K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 | Ubuntu Linux (64bit) |
-| ZYNQ ZCU104 | XCZU7EV | 504K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 2GB DDR4 (PS)+8GB DDR4 (PL) | Ubuntu Linux (64bit) |
-| ZYNQ ZCU102 | XCZU9EG | 600K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | Ubuntu Linux (64bit) |
-| ZYNQ ZU19 | ZU19EG | 1,143K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
+| PYNQ-Z2 | XC7Z020 | 13,300 LS | Arm CA9MP2 (650MHz) | 512MB DDR3 (PS) | PYNQ Linux (32bit) |
+| PYNQ-ZU | XCZU5EG| 256K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | PYNQ Linux (64bit) |
+| KV260/KR260 | XCZU5EV | 256K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | Ubuntu Linux (64bit) |
+| ZCU104 | XCZU7EV | 504K SLCs | Arm CA53MP4 (1.5GHz) | 2GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
+| ZCU102 | XCZU9EG | 600K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
+| ZU19EG | XCZU19EG | 1,143K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
 | HAPS VU13P | XCVU13P | 3,780K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
 | HAPS VU19P | XCVU19P | 8,938K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
 
