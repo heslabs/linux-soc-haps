@@ -5,18 +5,26 @@ This is the collaboration project for the academia SoC research community. To bu
 ---
 ## Training Agenda
 
-| # | Training module | Labs |
-|:-:|:-|:-:|
-| 01 | Introduction to Linux-capable SoC and AMBA | N/A |
-| 02 | Introduction to Arm Cortex-A CPU and Corstone Subsystem | N/A |
-| 03 | HAPS Prototyping Hardware Overview | N/A |
-| 04 | Build and Deploy the FPGA Prototyping System | labs |
-| 05 | SoC Hardware Development Flow | labs |
-| 06 | SoC Software Development Flow | labs |
-| 07 | Cortex-A CPU + DDR Base Design Example | labs |
-| 08 | FPGA HW&SW Co-design for SoC Architecture Exploration | N/A |
-| 09 | Prototyping AI SoC for LLM Chatbot Application | labs |
+| # | Training module | Labs | Links |
+|:-:|:-|:-:|:-|
+| 01 | Introduction to Linux-capable SoC and AMBA | N/A | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/01_Arm_Linux_SoC) |
+| 02 | Introduction to Arm Cortex-A CPU and Corstone Subsystem | N/A | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/02_Arm_Corestone_Subsystem) |
+| 03 | HAPS Prototyping Hardware Overview | N/A | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/03_HAPS_Prototyping_Hardware)  |
+| 04 | Build and Deploy the FPGA Prototyping System | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/04_Build_FPGA_Prototyping) |
+| 05 | SoC Hardware Development Flow | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/05_SoC_Hardware_Development) |
+| 06 | SoC Software Development Flow | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/06_SoC_Software_Development) |
+| 07 | Cortex-A CPU + DDR Base Design Example | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/07_CPU_DDR_Example) |
+| 08 | FPGA HW&SW Co-design for SoC Architecture Exploration | N/A | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/08_HWSW_Codesign_Flow) |
+| 09 | Prototyping AI SoC for LLM Chatbot Application | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/09_AISoC_LLMBOT) |
 
+---
+## Hands-on Labs
+
+* AMBA Overview and FPGA Design Example [[Github]](https://github.com/heslabs/soc-amba-axi)
+* Cortex-A SoC with DDR FPGA Design Example [[Github]](https://github.com/heslabs/mpc2c_base_v22p2)
+* Microblaze MCU FPGA Design Example [[Github]](https://github.com/heslabs/mpc2c_mbz_v22p2)
+* Corstone-300 FVP Examples [[Github]](https://github.com/heslabs/corstone300_fvp_yolo)
+  
 ---
 ## SoC Design and Verification Flow
 
