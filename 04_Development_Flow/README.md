@@ -1,4 +1,5 @@
-# FPGA Development Workflow
+# Build and Deploy the FPGA Prototyping System
+
 To develop an FPGA-based System-on-Chip (SoC) with remote access, custom IP, and a compute subsystem illustrated as below configuration. follow these steps:
 
 ## 1. Setup FPGA Cloud for Remote Access
