@@ -1,4 +1,24 @@
-# Introduction to HAPS Prototyping Hardware
+## FPGA Prototyping Overview
+
+| Hardware | Device | Capacity | CPU | DDR | OS | |
+| :-|:-:|-:|:-:|:-|:-:|:-|
+| PYNQ-Z2 | | | | | | |
+| PYNQ-ZU | XCZU5EG| 256K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | 
+| KV260/KR260 | XCZU5EV | 256K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | |
+| ZYNQ ZCU104 | XCZU7EV | 504K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | |
+| ZYNQ ZCU102 | XCZU9EG | 600K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | |
+| ZYNQ ZU19 | ZU19EG | 1,143K SLCs | 4GB DDR4  |Quad-core Arm Cortex-A53 (1.5GHz) | | |
+| HAPS-SX VU13P | XCVU13P | 3,780K SLCs | 16GB DDR4 | N/A | | |
+| HAPS-SX VU19P | XCVU19P | 8,938K SLCs |  16GB DDR4 | N/A | | |
+
+---
+* AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
+* AMD Virtex UltraScale+ FPGAs - Product Table [[AMD]](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)
+* FPGA capacity: System Logic Cells
+* 
+
+---
+## Introduction to HAPS Prototyping Hardware
 
 The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping solution designed to enable the development and validation of complex System-on-Chip (SoC) designs. Here are some key features and details about the HAPS platform:
 
