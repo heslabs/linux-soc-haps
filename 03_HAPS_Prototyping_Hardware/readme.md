@@ -8,8 +8,8 @@
 | ZYNQ ZCU104 | XCZU7EV | 504K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 2GB DDR4 (PS)+8GB DDR4 (PL) | Ubuntu Linux (64bit) |
 | ZYNQ ZCU102 | XCZU9EG | 600K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | Ubuntu Linux (64bit) |
 | ZYNQ ZU19 | ZU19EG | 1,143K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
-| HAPS-SX VU13P | XCVU13P | 3,780K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
-| HAPS-SX VU19P | XCVU19P | 8,938K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
+| HAPS VU13P | XCVU13P | 3,780K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
+| HAPS VU19P | XCVU19P | 8,938K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
 
 ---
 * AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
