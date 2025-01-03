@@ -10,14 +10,12 @@
 | ZCU104 | XCZU7EV | 504K SLCs | Arm CA53MP4 (1.5GHz) | 2GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
 | ZCU102 | XCZU9EG | 600K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
 | ZU19EG | XCZU19EG | 1,143K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
-| HAPS VU13P | XCVU13P | 3,780K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
-| HAPS VU19P | XCVU19P | 8,938K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
+| HAPS VU13P | XCVU13P | 3,780K SLCs | No CPU (+SMF) | 16GB/32GB DDR4 (PL) | No OS |
+| HAPS VU19P | XCVU19P | 8,938K SLCs | No CPU (+SMF) | 16GB/32GB DDR4 (PL) | No OS |
 
 ---
 * AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
 * AMD Virtex UltraScale+ FPGAs - Product Table [[AMD]](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)
-* FPGA capacity: System Logic Cells
-* 
 
 ---
 ## Introduction to HAPS Prototyping Hardware
