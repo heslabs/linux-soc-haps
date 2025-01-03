@@ -18,7 +18,7 @@
 
 * AMD Zynq™ 7000 SoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-7000.html)
 * AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
-* AMD Virtex UltraScale+ FPGAs - Product Table [[AMD]](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)
+* AMD Virtex™ UltraScale+™ FPGAs - Product Table [[AMD]](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)
 
 ---
 ## Introduction to HAPS Prototyping Hardware
