@@ -5,13 +5,14 @@
 | Board | Device | Capacity | CPU | DDR | OS |
 | :-|:-:|-:|:-:|:-|:-:|
 | PYNQ-Z2 | XC7Z020 | 13,300 LS | Arm CA9MP2 (650MHz) | 512MB DDR3 (PS) | PYNQ Linux (32bit) |
+| HAPS-SMF | XCZU4EG | 192K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | PYNQ Linux (64bit) |
 | PYNQ-ZU | XCZU5EG| 256K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | PYNQ Linux (64bit) |
 | KV260/KR260 | XCZU5EV | 256K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | Ubuntu Linux (64bit) |
 | ZCU104 | XCZU7EV | 504K SLCs | Arm CA53MP4 (1.5GHz) | 2GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
 | ZCU102 | XCZU9EG | 600K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
 | ZU19EG | XCZU19EG | 1,143K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
-| HAPS VU13P | XCVU13P | 3,780K SLCs | No CPU (+SMF) | 16GB/32GB DDR4 (PL) | No OS |
-| HAPS VU19P | XCVU19P | 8,938K SLCs | No CPU (+SMF) | 16GB/32GB DDR4 (PL) | No OS |
+| HAPS VU13P | XCVU13P | 3,780K SLCs | No CPU (+SMF/CA53) | 16GB/32GB DDR4 (PL) | No OS (+PYNQ LNX) |
+| HAPS VU19P | XCVU19P | 8,938K SLCs | No CPU (+SMF/CA53) | 16GB/32GB DDR4 (PL) | No OS (+PYNQ LNX) |
 
 ---
 * AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
