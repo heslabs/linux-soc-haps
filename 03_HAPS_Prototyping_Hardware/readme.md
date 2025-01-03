@@ -1,5 +1,7 @@
 ## FPGA Prototyping Overview
 
+---
+## FPGA Prototyping System - Selection Guide
 | Board | Device | Capacity | CPU | DDR | OS |
 | :-|:-:|-:|:-:|:-|:-:|
 | PYNQ-Z2 | XC7Z020 | 13,300 LS | Arm CA9MP2 (650MHz) | 512MB DDR3 (PS) | PYNQ Linux (32bit) |
