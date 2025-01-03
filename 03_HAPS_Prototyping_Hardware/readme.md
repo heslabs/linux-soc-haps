@@ -1,4 +1,4 @@
-# Introduction to HAPS Prototyping System
+# Introduction to HAPS Prototyping Hardware
 
 The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping solution designed to enable the development and validation of complex System-on-Chip (SoC) designs. Here are some key features and details about the HAPS platform:
 
