@@ -2,7 +2,7 @@
 
 ---
 ## FPGA Prototyping Hardware - Selection Guide
-| Board | Device | Capacity | CPU | DDR | OS |
+| Board | Device | Capacity | Cortex-A CPU | DDR | OS |
 | :-|:-:|-:|:-:|:-|:-:|
 | PYNQ-Z2 | XC7Z020 | 13,300 LS | Arm CA9MP2 (650MHz) | 512MB DDR3 (PS) | PYNQ Linux (32bit) |
 | PYNQ-ZU | XCZU5EG| 256K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | PYNQ Linux (64bit) |
