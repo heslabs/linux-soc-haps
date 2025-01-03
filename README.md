@@ -13,7 +13,7 @@ This is the collaboration project for the academia SoC research community. To bu
 | 04 | Build and Deploy the FPGA Prototyping System | labs |
 | 05 | SoC Hardware Development Flow | labs |
 | 06 | SoC Software Development Flow | labs |
-| 07 | CPU + DDR Example | labs |
+| 07 | Cortex-A CPU + DDR Base Design Example | labs |
 | 08 | SoC HW&SW Co-design Methodology | N/A |
 | 09 | Prototyping AI SoC for LLM Chatbot | labs |
 
