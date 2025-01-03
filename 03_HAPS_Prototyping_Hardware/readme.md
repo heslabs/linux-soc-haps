@@ -1,15 +1,15 @@
 ## FPGA Prototyping Overview
 
-| Hardware | Device | Capacity | CPU | DDR | OS | |
-| :-|:-:|-:|:-:|:-|:-:|:-|
-| PYNQ-Z2 | | | | | | |
-| PYNQ-ZU | XCZU5EG| 256K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | 
-| KV260/KR260 | XCZU5EV | 256K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | |
-| ZYNQ ZCU104 | XCZU7EV | 504K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | |
-| ZYNQ ZCU102 | XCZU9EG | 600K SLCs | 4GB DDR4 | Quad-core Arm Cortex-A53 (1.5GHz) | | |
-| ZYNQ ZU19 | ZU19EG | 1,143K SLCs | 4GB DDR4  |Quad-core Arm Cortex-A53 (1.5GHz) | | |
-| HAPS-SX VU13P | XCVU13P | 3,780K SLCs | 16GB DDR4 | N/A | | |
-| HAPS-SX VU19P | XCVU19P | 8,938K SLCs |  16GB DDR4 | N/A | | |
+| Hardware | Device | Capacity | CPU | DDR | OS |
+| :-|:-:|-:|:-:|:-|:-:|
+| PYNQ-Z2 | XC7Z020 | 13,300 LS | Arm Cortex-A9MP2 (650MHz) | 512MB DDR3 | PYNQ Linux (32bit) |
+| PYNQ-ZU | XCZU5EG| 256K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 | PYNQ Linux (64bit) |
+| KV260/KR260 | XCZU5EV | 256K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 | Ubuntu Linux (64bit) |
+| ZYNQ ZCU104 | XCZU7EV | 504K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 2GB DDR4 (PS)+8GB DDR4 (PL) | Ubuntu Linux (64bit) |
+| ZYNQ ZCU102 | XCZU9EG | 600K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | Ubuntu Linux (64bit) |
+| ZYNQ ZU19 | ZU19EG | 1,143K SLCs | Arm Cortex-A53MP4 (1.5GHz) | 4GB DDR4 (PS)+8GB DDR4 (PL) | PYNQ Linux (64bit) |
+| HAPS-SX VU13P | XCVU13P | 3,780K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
+| HAPS-SX VU19P | XCVU19P | 8,938K SLCs | No CPU | 16GB/32GB DDR4 (PL) | No OS |
 
 ---
 * AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
