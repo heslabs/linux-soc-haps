@@ -24,6 +24,7 @@ This is the collaboration project for the academia SoC research community. To bu
 * Cortex-A SoC with DDR FPGA Design Example [[Github]](https://github.com/heslabs/mpc2c_base_v22p2)
 * Microblaze MCU FPGA Design Example [[Github]](https://github.com/heslabs/mpc2c_mbz_v22p2)
 * Corstone-300 FVP Examples [[Github]](https://github.com/heslabs/corstone300_fvp_yolo)
+* Grove Vision AI - IP Camera Example [[Github]](https://github.com/heslabs/GroveVisionV2_IPCam)
   
 ---
 ## SoC Design and Verification Flow
