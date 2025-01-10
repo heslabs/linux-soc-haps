@@ -10,7 +10,15 @@ TSMC is always looking towards the future – not only the future research that 
 * Academic institutions interested in joining the University FinFET Program are welcome to contact one of the following TSMC service partners in their region to begin the application process. 
 
 ---
+## TSRI
+
+* University Signature List (TSMC University FinFET Program NDA)
+    * Publish Date: OCT 29, 2024 [[PDF]](https://www.tsri.org.tw/fab_services/fab_applydoc/TSMC_FinFET_NDA_UNIVERSITY_v113f_EN.pdf)
+
+ 
+
+---
 ## EUROPractice
 https://europractice-ic.com/tsmc-university-finfet-program/
 
-<img src="https://github.com/user-attachments/assets/eeb2941c-0ee5-40bd-a329-383bdcc302ee" width=650>
+<img src="https://github.com/user-attachments/assets/eeb2941c-0ee5-40bd-a329-383bdcc302ee" width=850>
