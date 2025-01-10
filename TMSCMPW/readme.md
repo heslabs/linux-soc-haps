@@ -12,7 +12,8 @@ TSMC is always looking towards the future – not only the future research that 
 ---
 ## Taiwan Semiconductor Research Institute (TSRI)
 
-國家實驗研究院台灣半導體研究中心 (Taiwan Semiconductor Research Institute, TSRI)
+國家實驗研究院台灣半導體研究中心 (Taiwan Semiconductor Research Institute, TSRI) \
+https://www.tsri.org.tw/main.jsp
 
 * University Signature List (TSMC University FinFET Program NDA)
     * Publish Date: OCT 29, 2024 [[PDF]](https://www.tsri.org.tw/fab_services/fab_applydoc/TSMC_FinFET_NDA_UNIVERSITY_v113f_EN.pdf)
