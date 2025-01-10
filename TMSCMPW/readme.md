@@ -24,4 +24,11 @@ https://www.tsri.org.tw/main.jsp
 ## EUROPractice
 https://europractice-ic.com/tsmc-university-finfet-program/
 
-<img src="https://github.com/user-attachments/assets/eeb2941c-0ee5-40bd-a329-383bdcc302ee" width=850>
+<img src="https://github.com/user-attachments/assets/eeb2941c-0ee5-40bd-a329-383bdcc302ee" width=950>
+
+---
+### TSMC MPW Schedule
+
+https://europractice-ic.com/schedules-prices-2025/
+
+<img src="https://github.com/user-attachments/assets/f8358383-e069-4db9-a054-bcb8e45c736c" width=950>
