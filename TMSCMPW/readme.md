@@ -24,6 +24,8 @@ https://www.tsri.org.tw/main.jsp
 ## EUROPractice
 https://europractice-ic.com/tsmc-university-finfet-program/
 
+---
+### TSMC MPW Price
 <img src="https://github.com/user-attachments/assets/eeb2941c-0ee5-40bd-a329-383bdcc302ee" width=950>
 
 ---
