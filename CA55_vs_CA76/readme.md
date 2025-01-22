@@ -1,15 +1,17 @@
 ## What is the difference between ARM Cortex-A55 and A76?
 https://s-o-c.org/what-is-the-difference-between-arm-cortex-a55-and-a76/
  
-The ARM Cortex-A55 and Cortex-A76 are two of ARM’s most popular CPU cores used in mobile devices. The Cortex-A55 is ARM’s first 64-bit “little” CPU core, while the Cortex-A76 is a high-performance “big” CPU core. There are some key differences between these two cores:
-
-The Cortex-A55 is designed for power efficiency and is aimed at low-performance tasks like background processes. The Cortex-A76 provides higher performance for demanding applications and is suited for primary processing tasks.
+* The ARM Cortex-A55 and Cortex-A76 are two of ARM’s most popular CPU cores used in mobile devices.
+* The Cortex-A55 is ARM’s first 64-bit “little” CPU core, while the Cortex-A76 is a high-performance “big” CPU core. There are some key differences between these two cores:
+  * The Cortex-A55 is designed for power efficiency and is aimed at low-performance tasks like background processes.
+  * The Cortex-A76 provides higher performance for demanding applications and is suited for primary processing tasks.
 
 
 ---
 ### Conclusion
 In summary, the Cortex-A55 offers an energy-efficient “little” core for basic workloads, while the Cortex-A76 provides a cutting-edge high-performance “big” core for premium devices. With their 64-bit ARMv8-A architecture, both cores power modern mobile experiences but aim for different market segments based on their intended use cases.
 
+---
 ### CPU Architecture
 * Both cores use ARM’s ARMv8-A 64-bit instruction set architecture. However, the Cortex-A55 is an in-order execution CPU while the Cortex-A76 uses out-of-order execution for greater performance. The Cortex-A76 also has a larger instruction pipeline and reorder buffer.
     
