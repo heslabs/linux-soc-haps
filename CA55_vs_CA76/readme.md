@@ -47,10 +47,10 @@ In summary, the Cortex-A55 offers an energy-efficient “little” core for basi
 * As 64-bit ARMv8-A compatible cores, both the Cortex-A55 and Cortex-A76 work with modern mobile operating systems like Android, iOS, Windows 10 ARM, and Linux.
 
 ### Licensing Cost
-* The Cortex-A55 costs around $0.10 to $0.15 per core to license from ARM. The Cortex-A76 has a higher licensing cost around $0.20 to $0.30 per core.
+* The Cortex-A55 costs around **$0.10 to $0.15** per core to license from ARM. The Cortex-A76 has a higher licensing cost around **$0.20 to $0.30** per core.
 
 ### Release Timeframe
-* The Cortex-A55 was announced in 2016. The Cortex-A76 debuted in 2018 as a major upgrade over previous ARM mobile cores like the Cortex-A75 and A73.
+* The Cortex-A55 was announced in 2016. The Cortex-A76 debuted in **2018** as a major upgrade over previous ARM mobile cores like the Cortex-A75 and A73.
 
 ### Successors
 * The Cortex-A55’s successor is the Cortex-A510 announced in 2022. The Cortex-A76 was succeeded by the Cortex-A77 in 2019, offering further improvements.
@@ -68,22 +68,22 @@ In summary, the Cortex-A55 offers an energy-efficient “little” core for basi
 * The Cortex-A55 uses ARM’s Austin microarchitecture, designed for power efficiency. The Cortex-A76 uses ARM’s newer Deimos microarchitecture focused on higher performance.
 
 ### Physical Design
-* At 7.5mm2 the Cortex-A55 has a very small die area optimized for low cost mobile chips. At 13mm2 the Cortex-A76 is much larger to accommodate advanced performance features.
+* At **7.5mm2** the Cortex-A55 has a very small die area optimized for low cost mobile chips. At **13mm2** the Cortex-A76 is much larger to accommodate advanced performance features.
 
 ### Maximum CPUs Per Cluster
-* ARM limits the Cortex-A55 to 4 cores per CPU cluster. Up to 16 Cortex-A76 cores are allowed per cluster, enabling more cores in high-end chips.
+* ARM limits the Cortex-A55 to 4 cores per CPU cluster. Up to **16 Cortex-A76 cores** are allowed per cluster, enabling more cores in high-end chips.
 
 ### Floating Point
 * The Cortex-A55 implements the ARMv8 FP and Advanced SIMD instructions for basic floating point math. The Cortex-A76 increases FP/SIMD to boost compute capabilities.
 
 ### Cryptography Extensions
-* For improved security, the Cortex-A76 adds support for ARMv8.2-A cryptography extensions like SIMD AES and SHA-1/SHA-256 acceleration.
+* For improved security, the Cortex-A76 adds support for **ARMv8.2-A cryptography extensions** like SIMD AES and SHA-1/SHA-256 acceleration.
 
 ### Memory Support
-* Both cores support 64-bit addressing, though Cortex-A76 compatible SoCs can be configured with up to 4TB of memory compared to 1TB with Cortex-A55.
+* Both cores support 64-bit addressing, though Cortex-A76 compatible SoCs can be configured with up to **4TB of memory** compared to **1TB** with Cortex-A55.
 
 ### Virtualization
-* The Cortex-A55 provides ARMv8 Virtualization to run an hypervisor and guest OS. The Cortex-A76 also supports ARM’s Virtualization Host Extensions for robust virtualization.
+* The Cortex-A55 provides **ARMv8 Virtualization** to run an hypervisor and guest OS. The Cortex-A76 also supports ARM’s **Virtualization Host Extensions** for robust virtualization.
 
 ### Performance Monitoring
 * The Cortex-A76 introduces an advanced PMU with 12 configurable counters to monitor and analyze different performance metrics for workloads.
