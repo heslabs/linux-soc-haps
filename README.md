@@ -15,7 +15,6 @@ This is the collaboration project for the academia SoC research community. To bu
 | 06 | SoC Software Development Flow | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/06_SoC_Software_Development) |
 | 07 | Cortex-A CPU + DDR Base Design Example | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/07_CPU_DDR_Example) |
 | 08 | FPGA HW&SW Co-design for SoC Architecture Exploration | N/A | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/08_HWSW_Codesign_Flow) |
-| 09 | Prototyping AI SoC for LLM Chatbot Application | labs | [[Page]](https://github.com/heslabs/linux-soc-haps/tree/main/09_AISoC_LLMBOT) |
 
 ---
 ## Hands-on Labs
