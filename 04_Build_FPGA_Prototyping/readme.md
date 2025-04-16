@@ -40,7 +40,7 @@ FPGA system configuration is illustrated as below
 1. Setup Cloud Environment
 
 ```
-$ ssd demo@59.124.169.195 -X
+$ ssd zynq@59.124.169.195 -X
 $ source ./labs/setenv.sh
 ```
 
