@@ -3,6 +3,7 @@
 
 Synopsys FireFly and HT3 cables are used in different contexts within electronic prototyping and design. FireFly cables are high-speed, twinax cables designed for data transmission in Synopsys' HAPS prototyping systems, while HT3 cables are general-purpose, thin-wall, automotive-grade cables specified by ISO 6722. 
 
+---
 ### Synopsys FireFly Cables: 
 Function:
 
@@ -19,7 +20,7 @@ Key Features:
 Application:
 * Primarily used for connecting FPGAs and other components in HAPS prototyping environments to accelerate software development and system verification. 
 
-
+---
 ### HT3 Cables (ISO 6722 Class C): 
 
 Function: General-purpose, thin-wall automotive cables.
@@ -32,7 +33,8 @@ Key Features:
 * Single core, single-layer insulation.
 * Application: Widely used in automotive applications for various wiring needs, including connecting sensors, actuators, and other electronic components within vehicles. 
 
-Key Differences: 
+---
+### Key Differences: 
 
 * Performance:
     * FireFly cables are designed for high-speed data transmission, while HT3 cables are for general-purpose wiring with a focus on automotive applications. 
