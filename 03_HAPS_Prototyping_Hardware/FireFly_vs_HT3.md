@@ -6,8 +6,7 @@ Synopsys FireFly and HT3 cables are used in different contexts within electronic
 ---
 ### Synopsys FireFly Cables: 
 Function:
-
-Specifically designed for high-speed data transfer within Synopsys' HAPS prototyping systems. 
+* Specifically designed for high-speed data transfer within Synopsys' HAPS prototyping systems. 
 
 Key Features: 
 * High-speed performance (e.g., up to 56 Gbps). 
@@ -23,7 +22,8 @@ Application:
 ---
 ### HT3 Cables (ISO 6722 Class C): 
 
-Function: General-purpose, thin-wall automotive cables.
+Function: 
+* General-purpose, thin-wall automotive cables.
 
 Key Features:
 * Conductor: Soft-annealed electrolytic bare copper.
